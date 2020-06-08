@@ -1,0 +1,96 @@
+
+        .jumbotron
+    	{
+    		background-image: linear-gradient(to right , #470669,#AA67CF);
+    	}
+    	#logo
+    	{
+    		height: 450px;
+    		width: 450px;
+    		margin: -50px;
+    		padding: -50px;
+    	}
+        #faq
+        {
+            float: right;
+        }
+    	#summary
+    	{
+    		text-align: center;
+    	}
+    	
+    	
+    	body
+    	{
+    		position: relative;
+    	}
+        .centered
+        {
+            text-align: center;
+        }
+    	#wrapper
+    	{
+    		text-align: center;
+    	}
+    	.footer
+    	{
+    		padding: 20px 0 50px 0;
+            color: #fff;
+            background-image: linear-gradient(#AA67CF,#470669);
+    	}
+    	.footertop
+    	{
+    		background-image: url(../images/footer2.png);
+    		height: 75px;
+    	}
+        .size
+        {
+            width: 750px;
+            height: 750px;
+        }
+        #img1
+        {
+            float: left;
+        }
+        #img2
+        {
+            float: right;
+        }
+       
+        .artimg
+        {
+            width: 300px;
+            height: 300px;
+        }
+        .card-deck
+        {
+            width: 800px;
+            margin: auto 0;
+        }
+        
+        #container
+        {
+            padding-left:-20px;
+            margin-left:-20px;  
+            text-align: center;
+        }
+        #container_1
+        {
+
+        }
+        #c_s
+        {
+            font-size: 500%; 
+        }
+        #team
+        {
+            text-align: center;
+        }
+        #contact_img
+        {
+            width: 300px;
+            height: 300px;
+            float: right;
+        }
+        
+ 
